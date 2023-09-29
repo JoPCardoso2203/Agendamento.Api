@@ -1,0 +1,22 @@
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\bin\Debug\net6.0\Agendamento.Dominio.deps.json
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\bin\Debug\net6.0\Agendamento.Dominio.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\bin\Debug\net6.0\Agendamento.Dominio.pdb
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.AssemblyInfoInputs.cache
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.AssemblyInfo.cs
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.csproj.CoreCompileInputs.cache
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\refint\Agendamento.Dominio.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.pdb
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\ref\Agendamento.Dominio.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\bin\Debug\net6.0\Agendamento.Dominio.deps.json
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\bin\Debug\net6.0\Agendamento.Dominio.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\bin\Debug\net6.0\Agendamento.Dominio.pdb
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.AssemblyInfoInputs.cache
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.AssemblyInfo.cs
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\refint\Agendamento.Dominio.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\Agendamento.Dominio.pdb
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Dominio\obj\Debug\net6.0\ref\Agendamento.Dominio.dll

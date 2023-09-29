@@ -1,0 +1,30 @@
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Infraestrutura.deps.json
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Infraestrutura.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Infraestrutura.pdb
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Dominio.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Dominio.pdb
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.csproj.AssemblyReference.cache
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.AssemblyInfoInputs.cache
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.AssemblyInfo.cs
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.csproj.CopyComplete
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\refint\Agendamento.Infraestrutura.dll
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.pdb
+C:\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\ref\Agendamento.Infraestrutura.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Infraestrutura.deps.json
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Infraestrutura.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Infraestrutura.pdb
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Dominio.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\bin\Debug\net6.0\Agendamento.Dominio.pdb
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.AssemblyInfo.cs
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.csproj.CopyComplete
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\refint\Agendamento.Infraestrutura.dll
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\Agendamento.Infraestrutura.pdb
+C:\Users\jopca\OneDrive\Área de Trabalho\Agendamento.Api\Agendamento.Api\Agendamento.Infraestrutura\obj\Debug\net6.0\ref\Agendamento.Infraestrutura.dll
